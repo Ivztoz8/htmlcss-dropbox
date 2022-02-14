@@ -153,11 +153,10 @@ div > span + a {
 .block_main_container1{
     display: inline-block;
     width: 80%;
-    height: 1500px;
+    height: 1000px;
     background-color: white;
     margin-top: 10%;
     margin-left: 15%;
-    border: 1px solid red;
 }
 
 .row1{
@@ -171,7 +170,7 @@ div > span + a {
 .row2{
     display: inline-block;
     width: calc(100% /3) -5px;
-    height: 50%;
+    height: 70%;
     padding: 5px 10px;
     margin-left: 50px;
 }
@@ -179,7 +178,7 @@ div > span + a {
 .row3{
     display: inline-block;
     width: 82.5%;
-    height: 10%;
+    height: 15%;
     padding: 5px;
     border: 1px solid lightgray;
     padding: 5px 0;
