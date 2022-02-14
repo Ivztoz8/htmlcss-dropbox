@@ -51,6 +51,7 @@ div > span + a {
     left: 0;
     background-color: #FFFFFF;
     padding-top: 10px;
+    z-index: 1;
 }
 
 .header_logo{
@@ -147,6 +148,21 @@ div > span + a {
     text-align: center;
 }
 
+.buttonrow2{
+    display: inline-block;
+    width: 70%;
+    height: 25px;
+    margin-left: 1%;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+.buttonrow2:hover{
+    box-shadow: inset 0 0 7px 0;
+}
+
 
    /* Section Rates and Terms */
 
@@ -215,6 +231,42 @@ div > span + a {
     padding-left: 45%;
 }
 
+.block_imgntxt{
+    display: inline-block;
+    width: 90%;
+    height: 600px;
+    margin-left: 6%;
+}
+
+.block_img{
+    display: inline-block;
+    width: 45%;
+    height: 600px;
+}
+
+.block_txt{
+    display: inline-block;
+    float: right;
+    transform: translate(-40%, 5%);
+    top:0;
+    right: 0;
+    width: 35%;
+    height: 600px;
+    z-index: -1;
+}
+
+.img0{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.txt0{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    
+}
 
 .icon{
     display: inline-block;
@@ -252,6 +304,10 @@ div > span + a {
 
 .margin_left50px{
     margin-left: 60px;
+}
+
+.margin_bottom1{
+    margin-bottom: 20px;
 }
     /* Float */
 
