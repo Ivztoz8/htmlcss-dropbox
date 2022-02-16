@@ -532,7 +532,7 @@ div.littlerow5 > a {
 }
 
 /* Section 6 */
-.block_main_container5a{
+.block_main_container6{
     display: inline-block;
     width: 99.8%;
     height: 300px;
@@ -572,6 +572,119 @@ div.littlerow5 > a {
     background-color: white;
     text-align: center;
     transform: translate(0, -300%);
+}
+
+/* Section 7 */
+
+.block_main_container7{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.faq_container7{
+    display: inline-block;
+    width: 60%;
+    height: auto;
+    background-color: white;
+    margin: 10% 20%;
+}
+
+.row7{
+    display: inline-block;
+    width: 99%;
+    height: auto;
+    background-color: white;
+    margin-top: 0 auto;
+}
+
+.margin7a{
+    margin-bottom: 3%;
+}
+
+.row7a{
+    display: inline-block;
+    width: 99%;
+    height: auto;
+    background-color: white;
+    margin: 1% auto;
+
+}
+
+.displaynone{
+    display: none;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 10px;
+    line-height: 20px;
+}
+
+
+.standard-a {
+    text-decoration:underline;
+    color: #5100FF; 
+}
+
+/* Footer */
+
+nav.footer > ul >li >a{
+    color: white;
+}
+
+.footer_container{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: white;
+    padding-top: 3%;
+}
+
+.footer{
+    font-weight: bold;
+    line-height: 30px;
+    color: white;
+}
+
+.navf{
+    display: inline-block;
+    width: 10%;
+    margin: 5% 0 5% 8%;
+}
+
+.navf1{
+    display: inline-block;
+}
+
+.fontfooterwhitebold{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.font-weig7{
+    font-weight: normal;
+}
+
+.visibilityh{
+    visibility: hidden;
+}
+
+.hr7{
+    display: inline-block;
+    width: 10%;
+    color: gray;
+    margin-left: 8%;
+    margin-bottom: 3%;
+}
+.underhr7{
+    display: inline-block;
+    width: 10%;
+    color: gray;
+    margin-bottom: 2%;
+    transform: translate( -99%, 0);
 }
 
 /* Utility*/
